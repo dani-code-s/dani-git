@@ -1,4 +1,4 @@
-nombre = "Gabriel"
+nombre = "Juancho"
 apellido = "gonzalez"
 edad = 30
 fecha_nacimiento = "1993-05-15"
