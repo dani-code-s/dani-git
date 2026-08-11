@@ -1,5 +1,5 @@
-nombre = "messi"
-apellido = "gonzalez"
+nombre = "lionel"
+apellido = "mesii"
 edad = 30
 fecha_nacimiento = "1993-05-15"
 
